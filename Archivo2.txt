@@ -1,2 +1,4 @@
 lineas de configuracion del Archivo2.txt
 var algo ="";
+algo ="felicidades estoy en otra rama"
+
