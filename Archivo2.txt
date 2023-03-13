@@ -1,0 +1,1 @@
+lineas de configuracion del Archivo2.txt
